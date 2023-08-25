@@ -1,0 +1,34 @@
+{
+    "name": "BPZC8DG6",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "bitplayer": "github:TinkerGen/pxt-bitplayer#v1.0.4",
+        "Grove": "github:seeed-studio/pxt-grove#v0.5.0",
+        "pxt-kitronik-viewtext32": "github:kitronikltd/pxt-kitronik-viewtext32#v1.2.2",
+        "joystickbit": "github:tinkertanker/pxt-joystickbit#v1.0.2",
+        "pxt-kitronik-128x64display": "github:kitronikltd/pxt-kitronik-128x64display#v0.4.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v6.0.17",
+        "tag": "v6.0.17",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/8f2212096e30017f6c9c561e3241df44b3acd755",
+        "target": "6.0.17",
+        "pxt": "9.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
